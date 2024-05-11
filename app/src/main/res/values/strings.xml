@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyTaskManager</string>
+    <string name="splashText">WE WILL ORGANIZE YOUR WORK IN A PROPER MANNER</string>
+    <string name="taskTile">My Tasks</string>
+    <string name="addTaskBtnText">Add a new task</string>
+    <string name="task">Task Name</string>
+    <string name="description">Task Description</string>
+    <string name="priority">Priority</string>
+    <string name="deadline">Deadline</string>
+    <string name="createTaskTitle">CREATE A NEW TASK</string>
+    <string name="createTaskBtn">Create Task</string>
+    <string name="updateTaskTitle">UPDATE TASK</string>
+    <string name="updateTaskBtn">Update Task</string>
+    <string name="deleteTaskBtn">Delete Task</string>
+    <string name="editBtnText">Edit Task</string>
+</resources>
